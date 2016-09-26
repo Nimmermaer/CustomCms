@@ -1,0 +1,431 @@
+body {
+    background: #eee !important;
+}
+
+.wrapper {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.form-signin {
+    max-width: 380px;
+    padding: 15px 35px 45px;
+    margin: 0 auto;
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+    margin-bottom: 30px;
+}
+
+.form-signin .checkbox {
+    font-weight: normal;
+}
+
+.form-signin .form-control {
+    position: relative;
+    font-size: 16px;
+    height: auto;
+    padding: 10px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.form-signin .form-control:focus {
+    z-index: 2;
+}
+
+.form-signin input[type="text"] {
+    margin-bottom: -1px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.form-signin input[type="password"] {
+    margin-bottom: 20px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+td {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #000000
+}
+
+input {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #000000
+}
+
+textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #000000;
+    background-color: #FFFFFF
+}
+
+.linkprimnav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #000000;
+    text-decoration: none
+}
+
+.linkprimnav:hover {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #6599CB;
+    text-decoration: underline
+}
+
+.linksecnav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 9pt;
+    font-weight: 300;
+    color: #F4C203;
+    text-decoration: none
+}
+
+select {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #000000;
+    background-color: #FFFFFF;
+    border: 1px #000000 solid
+}
+
+a {
+    font-family: Tahoma;
+    font-size: 9px;
+    font-weight: 300;
+    color: #FFFFFF;
+    text-decoration: none
+}
+
+hr {
+    color: #F4C302
+}
+
+checkbox {
+    background-color: #0033CC;
+    color: #003399;
+    border: #990000;
+    border-style: solid;
+    border-top-width: medium;
+    border-right-width: medium;
+    border-bottom-width: medium;
+    border-left-width: medium
+}
+
+.itext {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #333333;
+    background-color: #ffffff;
+    border: 1px #CCCCCC solid
+}
+
+.linkprimnav2 {
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: 300;
+    color: #999999;
+    text-decoration: none
+}
+
+.content_headline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #333333;
+    text-decoration: none
+}
+
+.content_border {
+    background-color: #99CBCC
+}
+
+.content_bckgrnd {
+    background-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    color: #2c3465
+}
+
+.txt {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #000000
+}
+
+.txtbold_blue_dark {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #2C3465
+}
+
+.txt_blue_dark {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    color: #2C3465
+}
+
+.txtbold {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #999999
+}
+
+.txtbold_headllist {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    color: #0080AD
+}
+
+.warning_bckgrnd {
+    background-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    color: #000000;
+    border: 2px #CC0000 solid
+}
+
+.txtmessage {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #CC0000
+}
+
+.txtlink {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #000000;
+    text-decoration: none
+}
+
+.txtlinkintern {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #000000;
+    text-decoration: underline
+}
+
+.content_borderfiles {
+    background-color: #FFFFFF;
+    border: #CCCCCC;
+    border-style: solid;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px
+}
+
+.txtformpflicht {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #333333
+}
+
+.txtlistsubheadline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #666666;
+    text-decoration: none;
+    font-weight: bold
+}
+
+.txtonline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #000000;
+    text-decoration: none
+}
+
+.txtoffline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #666666;
+    text-decoration: none;
+    font-style: italic
+}
+
+.txtlistleer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #666666;
+    text-decoration: none;
+    font-weight: normal
+}
+
+.navprim_bckgrnd {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #B4B4B4
+}
+
+.navprim_border {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #333333
+}
+
+.nav_prim {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: 300;
+    color: #FFFFFF;
+    text-decoration: none
+}
+
+.navsub_head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #6699CC;
+    font-weight: bold;
+    color: #FFFFFF
+}
+
+.navprim_head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    background-color: #B4B4B4;
+    font-weight: bold;
+    color: #000000
+}
+
+.nav_primlogout {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none
+}
+
+.txtcritical {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #CC3300;
+    text-decoration: none;
+    font-weight: normal
+}
+
+.table_border {
+    border: solid;
+    border-width: 1px 1px 0px;
+    border-color: #999999 #999999 black
+}
+
+.table_cell_bottom {
+    border: solid;
+    border-width: 0px 0px 1px;
+    border-color: black black #999999
+}
+
+.table_cell_right_bottom {
+    border: solid;
+    border-width: 0px 1px 1px 0px;
+    border-color: black #999999 #999999 black
+}
+
+.table_headline {
+    border: 1px #999999 solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #E0E0E0
+}
+
+.table_cell_right_bottom_head {
+    border: solid;
+    border-width: 0px 1px 1px 0px;
+    border-color: black #999999 #999999 black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #CCCCCC
+}
+
+.table_cell_bottom_head {
+    border: solid;
+    border-width: 0px 0px 1px;
+    border-color: black black #999999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #CCCCCC
+}
+
+.table_cell_noentry {
+    border: solid;
+    border-width: 0px 0px 1px;
+    border-color: black black #999999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #990000;
+    background-color: #E0E0E0
+}
+
+.table_sort {
+    border: 1px #999999 solid;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #E0E0E0
+}
+
+.tablecellbottomhinweis {
+    border: solid;
+    border-width: 0px 0px 1px;
+    border-color: black black #999999;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FF9933
+}
+
+.cmsboxedit {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #666666;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #E0E0E0;
+    border: 1px solid #999999;
+
+}
+
+.cmsboxlink {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
